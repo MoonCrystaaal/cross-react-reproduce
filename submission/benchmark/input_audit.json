@@ -1,0 +1,806 @@
+[
+  {
+    "tool": "cross-react",
+    "query": "Act d 8",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Aln g 1",
+      "Api g 1",
+      "Ara h 8",
+      "Bet v 1",
+      "Cor a 1",
+      "Dau c 1",
+      "Fag s 1",
+      "Gly m 4",
+      "Mal d 1",
+      "Pru p 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Act_d_8.allergen_rankings.csv",
+    "sha256": "f175ce4e52ed08fb2a4ac82a4244b28f707525b181a6c6927a24caea39a83ffd"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Aes h 1",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Art v 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Aes_h_1.allergen_rankings.csv",
+    "sha256": "491ec697da886caf1e5b2dcebf283fc20363f39b474d9ee94a7ff020f26876cd"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Aln g 1",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Act d 8",
+      "Api g 1",
+      "Ara h 8",
+      "Bet v 1",
+      "Cor a 1",
+      "Dau c 1",
+      "Fag s 1",
+      "Gly m 4",
+      "Mal d 1",
+      "Pru p 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Aln_g_1.allergen_rankings.csv",
+    "sha256": "23905db98a15cc648104ecbd61026dd7a86280b47234ef9a20e275158771bd04"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Aln g 4",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Bet v 4",
+      "Phl p 7"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Aln_g_4.allergen_rankings.csv",
+    "sha256": "7f2f739ad52e861b54261423de2f85dcba48d39eb5806d659e4fdb734d0171e4"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Amb a 1",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Art v 6",
+      "Hel a 6"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Amb_a_1.allergen_rankings.csv",
+    "sha256": "d3b8405ee2ca61c12448f1ca253ec48b547b3e89cbfeabaf4a619b57d133e1b7"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Amb a 4",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Art v 1",
+      "Par h 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Amb_a_4.allergen_rankings.csv",
+    "sha256": "0082fec9694bbc5be8ffc903d2f24e9af7e316e1b9662a7161b30e0ac7a0e544"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Ana o 1",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Pis v 3"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Ana_o_1.allergen_rankings.csv",
+    "sha256": "dfb2d49a391b9bf3bcf30fb09e77e25c6c3481a469c490fec582e7464ea55e45"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Ana o 3",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Pis v 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Ana_o_3.allergen_rankings.csv",
+    "sha256": "a492379d6b6c61026ad6f61e97b42c9d52733fb30fc6d716c92c77b93ed77d5c"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Api g 1",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Act d 8",
+      "Aln g 1",
+      "Ara h 8",
+      "Bet v 1",
+      "Cor a 1",
+      "Dau c 1",
+      "Fag s 1",
+      "Gly m 4",
+      "Mal d 1",
+      "Pru p 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Api_g_1.allergen_rankings.csv",
+    "sha256": "b35eb9b0690d3b9698690d4ebb97d55d7f2d04f9c1d3c7c8af59e8cb9d63557d"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Api m 5",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Ves v 3"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Api_m_5.allergen_rankings.csv",
+    "sha256": "d48e39db99441ad06039162d8e1ba3726910ec99ba0eaefc7764377d9c9e7b81"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Ara h 1",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Lup an 1",
+      "Pis s 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Ara_h_1.allergen_rankings.csv",
+    "sha256": "3ace68d962f7ebe8a7173784335362fa3d603290f9f51a8bc45aa040b284a7f6"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Ara h 3",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Cor a 9"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Ara_h_3.allergen_rankings.csv",
+    "sha256": "218ce1fe90db42c383e90ae148c1c6ce335597d907a290dc18e5fd146ed7ba66"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Ara h 8",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Act d 8",
+      "Aln g 1",
+      "Api g 1",
+      "Bet v 1",
+      "Cor a 1",
+      "Dau c 1",
+      "Fag s 1",
+      "Gly m 4",
+      "Mal d 1",
+      "Pru p 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Ara_h_8.allergen_rankings.csv",
+    "sha256": "1d1f51f9415059c1ff430e99b354ab8de0203bfb822f8f01667d934ee0b6eafb"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Art v 1",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Aes h 1",
+      "Amb a 4",
+      "Par h 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Art_v_1.allergen_rankings.csv",
+    "sha256": "5f85c595cfb953e3c4da75d4160cbe72a2c37b791ec0382f111277b18094cdf6"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Art v 3",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Pru p 3"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Art_v_3.allergen_rankings.csv",
+    "sha256": "ae896ffe49b813cfb06e52b5085e3bf32778b7f412b01bb8e062e10e1247a206"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Art v 4",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Bet v 2",
+      "Hev b 8",
+      "Mer a 1",
+      "Phl p 12",
+      "Pru p 4"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Art_v_4.allergen_rankings.csv",
+    "sha256": "656e42f931c3601fda5402e15a9dde92338f6886c8ef9fe398b24d633cdd3d9a"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Art v 6",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Amb a 1",
+      "Hel a 6"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Art_v_6.allergen_rankings.csv",
+    "sha256": "0c22ddd1987110be706a943c8a9280049b7d077784832b39ea32cb295621ec88"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Bet v 1",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Act d 8",
+      "Aln g 1",
+      "Api g 1",
+      "Ara h 8",
+      "Cor a 1",
+      "Dau c 1",
+      "Fag s 1",
+      "Gly m 4",
+      "Mal d 1",
+      "Pru p 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Bet_v_1.allergen_rankings.csv",
+    "sha256": "a3ba60deaafb011a9a05b80c06a5fd35158fcc8e69a051f3624faa1c79fb833b"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Bet v 2",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Art v 4",
+      "Hev b 8",
+      "Mer a 1",
+      "Phl p 12",
+      "Pru p 4"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Bet_v_2.allergen_rankings.csv",
+    "sha256": "a01e1a9bde37cf68bded33eff51a9b006aaa80a5bd866d089cf90a42650f0934"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Bet v 4",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Aln g 4",
+      "Phl p 7"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Bet_v_4.allergen_rankings.csv",
+    "sha256": "e637d12b59a58f8c6304d3e8212c300e1ab4971ae558c703fcc291510f52c1da"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Bla g 7",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Pen a 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Bla_g_7.allergen_rankings.csv",
+    "sha256": "54a0d9da34020ee508da4aeaf71edb2b62fd24dcda7e984d21a29aa671fc4cf7"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Bos d 6",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Fel d 2"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Bos_d_6.allergen_rankings.csv",
+    "sha256": "d4edeef3f849e80a160def3cb6860d3091026c557107b3cf375fe52068199c10"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Can f 1",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Fel d 7"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Can_f_1.allergen_rankings.csv",
+    "sha256": "2e5e25fafe415fcb8c3b88510d706bef75968b0e4291eccec56aa4a77cc7ad33"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Can f 3",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Cav p 4",
+      "Equ c 3",
+      "Fel d 2"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Can_f_3.allergen_rankings.csv",
+    "sha256": "84a3230cc0420f5e639f51980e22a9d2e3e6efae7d1a29f9a65cdae5465bac5f"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Can f 6",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Cav p 6",
+      "Equ c 1",
+      "Fel d 4"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Can_f_6.allergen_rankings.csv",
+    "sha256": "6e4201047001b471c0ede8e6886a8057003d54fb352f0dcb10b2a2be1ac8e8fa"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Car i 1",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Jug r 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Car_i_1.allergen_rankings.csv",
+    "sha256": "2e2df26fe92c166dd258a0dd87f129bc133fcbfbda81e8e4c2cff27d96ed7da0"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Cav p 4",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Can f 3",
+      "Equ c 3",
+      "Fel d 2"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Cav_p_4.allergen_rankings.csv",
+    "sha256": "a0c65119403a20313f8d84387388797ee662718e441f0fcfc4cd9f057ba07d2e"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Cav p 6",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Can f 6",
+      "Fel d 4"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Cav_p_6.allergen_rankings.csv",
+    "sha256": "e09aea2f2b0c0291e49c04433cfcac417aa559f63f6ce69afd47956fb7961180"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Cha f 1",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Pan s 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Cha_f_1.allergen_rankings.csv",
+    "sha256": "d5b24de2defc9d926b70b59253813d7618c3b2764ac41d15e6130cea361e41cb"
+  },
+  {
+    "tool": "cross-react",
+    "query": "Mer a 1",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Art v 4",
+      "Bet v 2",
+      "Hev b 8",
+      "Phl p 12",
+      "Pru p 4"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\crossreact_rankings\\Mer_a_1.allergen_rankings.csv",
+    "sha256": "20f661fb8ac667617f543e035f0304f0c84de93d4b5e0d4acffcf8a6b460338c"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Act d 8",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Aln g 1",
+      "Api g 1",
+      "Ara h 8",
+      "Bet v 1",
+      "Cor a 1",
+      "Dau c 1",
+      "Fag s 1",
+      "Gly m 4",
+      "Mal d 1",
+      "Pru p 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Act_d_8.allergen_rankings.csv",
+    "sha256": "5abc3b98e903815a92555e5e5c7f59d5084d15e2c29d8ac78d3026209618d4d8"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Aes h 1",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Art v 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Aes_h_1.allergen_rankings.csv",
+    "sha256": "347e4134943747285f0ec96001586ff00672af200869223ae7a65de62386df55"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Aln g 1",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Act d 8",
+      "Api g 1",
+      "Ara h 8",
+      "Bet v 1",
+      "Cor a 1",
+      "Dau c 1",
+      "Fag s 1",
+      "Gly m 4",
+      "Mal d 1",
+      "Pru p 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Aln_g_1.allergen_rankings.csv",
+    "sha256": "0e0bc8d0ea238937f7c826551d9324494dde38c54f8f58130ce3dd8f38d52b1d"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Aln g 4",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Bet v 4",
+      "Phl p 7"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Aln_g_4.allergen_rankings.csv",
+    "sha256": "662afe7e3e67d498e49d5fa7d4d14a4c9112fa0ec1c1e1488678aa51addcaed0"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Amb a 1",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Art v 6",
+      "Hel a 6"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Amb_a_1.allergen_rankings.csv",
+    "sha256": "a6d51fed020fbbdb2fd9b07452234d7632c1c45b50439db302be39e18d0efce5"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Amb a 4",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Art v 1",
+      "Par h 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Amb_a_4.allergen_rankings.csv",
+    "sha256": "ec8c7b0ab231df2893b3a1ebbc35af4100a52c351379dab834679de521219f37"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Ana o 1",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Pis v 3"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Ana_o_1.allergen_rankings.csv",
+    "sha256": "5c9c30041db5bebc5cbcad9a64c521d425077cffa27c97a4000494e20e118dda"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Ana o 3",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Pis v 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Ana_o_3.allergen_rankings.csv",
+    "sha256": "b21d7a794982473c8ddfe2b63263e8754b17f9335a884b6f35c85af95f7ae2d4"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Api g 1",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Act d 8",
+      "Aln g 1",
+      "Ara h 8",
+      "Bet v 1",
+      "Cor a 1",
+      "Dau c 1",
+      "Fag s 1",
+      "Gly m 4",
+      "Mal d 1",
+      "Pru p 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Api_g_1.allergen_rankings.csv",
+    "sha256": "c3c85b1c0893e11bbfdbb6a6825e3bd572b9f264d3adb081df1ddd0a1c14f264"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Api m 5",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Ves v 3"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Api_m_5.allergen_rankings.csv",
+    "sha256": "614435eb543b9ff03a932b10a29cfe141df4c5213507bf4708bc1a4bf4f61c75"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Ara h 1",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Lup an 1",
+      "Pis s 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Ara_h_1.allergen_rankings.csv",
+    "sha256": "492aabb53794f806d89f2a51428219eb46a50eb124f7d78e822878e689ce8d76"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Ara h 3",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Cor a 9"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Ara_h_3.allergen_rankings.csv",
+    "sha256": "40f214513c84f3bd981f0ce7e30ae39819891a4b0ebc3b839cb8031aaebf079c"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Ara h 8",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Act d 8",
+      "Aln g 1",
+      "Api g 1",
+      "Bet v 1",
+      "Cor a 1",
+      "Dau c 1",
+      "Fag s 1",
+      "Gly m 4",
+      "Mal d 1",
+      "Pru p 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Ara_h_8.allergen_rankings.csv",
+    "sha256": "7fa213b79c1ff86e9c0ab538ed6c4402983565efd89ba0b5b7bb0260dbdb1471"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Art v 1",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Aes h 1",
+      "Amb a 4",
+      "Par h 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Art_v_1.allergen_rankings.csv",
+    "sha256": "d1f28135cc525e910df215374d556cd0f8b93b99cf4b952d36862c6d22b50223"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Art v 3",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Pru p 3"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Art_v_3.allergen_rankings.csv",
+    "sha256": "4673255a7a3e4779937c8f05f60a346f9410feb3caa1d537beacaf2f87adacd7"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Art v 4",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Bet v 2",
+      "Hev b 8",
+      "Mer a 1",
+      "Phl p 12",
+      "Pru p 4"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Art_v_4.allergen_rankings.csv",
+    "sha256": "f10c0ff8d8627d398d4f6df3abbee63c0c48560f1498ed02c17028c77eb7731f"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Art v 6",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Amb a 1",
+      "Hel a 6"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Art_v_6.allergen_rankings.csv",
+    "sha256": "7e39697c06a2b0e37216d98d2a2ffad7486ce25b5b67140e76a9eca3f1959e78"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Bet v 1",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Act d 8",
+      "Aln g 1",
+      "Api g 1",
+      "Ara h 8",
+      "Cor a 1",
+      "Dau c 1",
+      "Fag s 1",
+      "Gly m 4",
+      "Mal d 1",
+      "Pru p 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Bet_v_1.allergen_rankings.csv",
+    "sha256": "08be7057daac1027989101e8bf2f5593de72cb15b133174e67255692765e1819"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Bet v 2",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Art v 4",
+      "Hev b 8",
+      "Mer a 1",
+      "Phl p 12",
+      "Pru p 4"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Bet_v_2.allergen_rankings.csv",
+    "sha256": "972ef76ee2bc4c496495e52a91ddc7513a5380b1199ff827ca9d07085e7d3232"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Bet v 4",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Aln g 4",
+      "Phl p 7"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Bet_v_4.allergen_rankings.csv",
+    "sha256": "1941b6c7a355a1890197d9d77f0c251f3ccd8ad70a720b7cdc4c4112ac452422"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Bla g 7",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Pen a 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Bla_g_7.allergen_rankings.csv",
+    "sha256": "9fa64a06da63a6a40f4d229d2c87f9b5af2048ce4d27b43a3315013549834181"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Bos d 6",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Fel d 2"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Bos_d_6.allergen_rankings.csv",
+    "sha256": "f8debe68bd4ca5ac925876eae96783278ebcef2e50b52a6b2cdc1eb5721da26f"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Can f 1",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Fel d 7"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Can_f_1.allergen_rankings.csv",
+    "sha256": "842bd5fc0e2e3e4f7527556d4f216061ed1871681cb91b6a1b3fa643d1b8a575"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Can f 3",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Cav p 4",
+      "Equ c 3",
+      "Fel d 2"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Can_f_3.allergen_rankings.csv",
+    "sha256": "f0261b3aa67f8998b266b49859b39d87ac283276209319c18265ba0d715499af"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Can f 6",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Cav p 6",
+      "Equ c 1",
+      "Fel d 4"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Can_f_6.allergen_rankings.csv",
+    "sha256": "3a46643a8ba8a8be85ef7889a2d8ed30ceeb81db386e39cd2839393d3bd4c91d"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Car i 1",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Jug r 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Car_i_1.allergen_rankings.csv",
+    "sha256": "fe516f7c9eb34b5cd5f0a062b9954dab81038cf1282d800d66ec859d4c7386d8"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Cav p 4",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Can f 3",
+      "Equ c 3",
+      "Fel d 2"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Cav_p_4.allergen_rankings.csv",
+    "sha256": "4b7ea658c909b48a746ae11f6d37ae0bef50bd7b4f1025cde663724686c0229f"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Cav p 6",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Can f 6",
+      "Fel d 4"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Cav_p_6.allergen_rankings.csv",
+    "sha256": "b5efd4fef11cca450780b490ee74de5fe320b39c4adfd2ca6699c98c60abe236"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Cha f 1",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Pan s 1"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Cha_f_1.allergen_rankings.csv",
+    "sha256": "9e02df766493e0019a3cf1f52d1b0946aae1c5db6d1458d88a7d8014cbeb382c"
+  },
+  {
+    "tool": "surface-id",
+    "query": "Mer a 1",
+    "candidate_count": 180,
+    "relevant_targets": [
+      "Art v 4",
+      "Bet v 2",
+      "Hev b 8",
+      "Phl p 12",
+      "Pru p 4"
+    ],
+    "missing_relevant_targets": [],
+    "ranking_file": "D:\\immune\\benchmark_comparison_30q\\surfaceid_rankings\\Mer_a_1.allergen_rankings.csv",
+    "sha256": "face7ff58d2eeaf2d1fb28f3c814bef6da3a30497a345fab9698cd8d5714d98f"
+  }
+]

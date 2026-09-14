@@ -1,0 +1,8 @@
+{
+  "patches": 77,
+  "query_matrix_same_as_prior": false,
+  "all_target_matrices_same_as_prior": false,
+  "max_error_direct_matrix_formula_vs_current": 4.944933351680447e-13,
+  "max_error_flattened_pearson_vs_prior": 0.10147060848697381,
+  "author_independent_expected_result_available": false
+}

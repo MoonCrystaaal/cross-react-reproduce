@@ -1,0 +1,49 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+# Credentials are local; examples may be committed
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+*credentials*.json
+secrets.json
+.aws/
+.ssh/
+# Editors and temporary files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+~$*
+*.swp
+*.tmp
+*.part
+*.log
+*.backup-*
+*.backup*
+backups/
+# Recomputable structure data and all scoring runs; keep label/query inputs
+/pipeline/pdb_all/
+/pipeline/pdb_all_surfaceid-v1/
+/library/1_surface_residues/
+/library/2_patches_10A/
+/library/3_connectivity/
+/library/4_pcc/
+/library/5_allergen_pcc*/
+/outputs/
+/cache/
